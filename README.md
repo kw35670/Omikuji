@@ -1,2 +1,2 @@
-# -
+# omikuji
 javascriptを使ったおみくじアプリです。
